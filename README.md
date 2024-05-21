@@ -1,4 +1,4 @@
-# AStarXY
+# AStarXY: Approximating One Matrix in Terms of Another Matrix
 
 Implementation of the paper:           
 **[Heuristic Search for Approximating One Matrix in Terms of Another Matrix](https://www.ijcai.org/proceedings/2021/221)**
