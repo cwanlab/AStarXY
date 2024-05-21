@@ -20,7 +20,7 @@ Please contact guihong.wan@outlook.com in case you have any questions
 ## Cite
 Please cite our paper if you use this code in your own work:
 
-'''
+'''             
 @inproceedings{ijcai2021p221,                   
   title     = {Heuristic Search for Approximating One Matrix in Terms of Another Matrix},       
   author    = {Wan, Guihong and Schweitzer, Haim},      
@@ -33,5 +33,5 @@ Please cite our paper if you use this code in your own work:
   note      = {Main Track},      
   doi       = {10.24963/ijcai.2021/221},       
   url       = {https://doi.org/10.24963/ijcai.2021/221},       
-}
+}        
 '''
